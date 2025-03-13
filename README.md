@@ -1,9 +1,10 @@
 ## 👋 **Hello there!**
 I’m @xololt-dev
-- 🎓 Engineer degree 7/7 @ Wrocław University of Science and Technology
+- 🎓 Engineer @ Wrocław University of Science and Technology, Masters 1/3 @ Wrocław University of Science and Technology
 - 👀 Stack preference: C++, Python
-- 🌱 I’m currently learning Godot (Engineer's Thesis)
-- 💬 How to reach me: 
+- 🖥️ Java / JS @ Work
+- 🌱 Trying to decide on a side project... and also fit it into the schedule
+- 💬 How to reach me:
   - 📫 email - kuba.lazorko@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
