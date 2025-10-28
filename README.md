@@ -1,8 +1,15 @@
 ## 👋 **Hello there!**
 I’m @xololt-dev
-- 🎓 Engineer @ Wrocław University of Science and Technology, Masters 1/3 @ Wrocław University of Science and Technology
-- 👀 Stack preference: C++, Python
-- 🖥️ Java / JS @ Work
+- 🎓 Education:
+  - Engineer @ Wrocław University of Science and Technology,
+  - Masters 2/3 @ Wrocław University of Science and Technology
+- 👀 Stack preference:
+  - C++,
+  - Python
+- 🖥️ Currently @ Work:
+  - TS
+  - JS
+  - React Native/Expo
 - 🌱 Trying to decide on a side project... and also fit it into the schedule
 - 💬 How to reach me:
   - 📫 email - kuba.lazorko@gmail.com
