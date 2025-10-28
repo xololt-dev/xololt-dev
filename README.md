@@ -1,10 +1,10 @@
 ## 👋 **Hello there!**
 I’m @xololt-dev
 - 🎓 Education:
-  - Engineer @ Wrocław University of Science and Technology,
+  - Engineer @ Wrocław University of Science and Technology
   - Masters 2/3 @ Wrocław University of Science and Technology
 - 👀 Stack preference:
-  - C++,
+  - C++
   - Python
 - 🖥️ Currently @ Work:
   - TS
