@@ -2,7 +2,7 @@
 I’m @xololt-dev
 - 🎓 Education:
   - Engineer @ Wrocław University of Science and Technology
-  - Masters 2/3 @ Wrocław University of Science and Technology
+  - Masters 3/3 @ Wrocław University of Science and Technology
 - 👀 Stack preference:
   - C++
   - Python
